@@ -1,0 +1,24 @@
+.w-100 {
+    width: 100%;
+}
+
+.w-1140 {
+    width: 1140px;
+    margin: auto;
+}
+
+.head {
+    text-align: center;
+}
+
+.btn {
+    width: 150px;
+    height: 150px;
+    font-size: 48px;
+}
+
+#gamearea {
+    width: 100%;
+    text-align: center;
+    margin-top: 60px;
+}
